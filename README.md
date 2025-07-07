@@ -88,16 +88,16 @@ https://drive.google.com/drive/folders/1HfXdL7126vNmSyxEhwISp3AX0GDpDEKN?usp=sha
 
 ---
 
-##Contributors
+## Contributors
 
-Prashant Narang
-Arihant Bhandari
-Vigneshwar
-Poorna Sai Reddy
-Atharvakant Chandorikar
-Bhaskar
-Venepally Sathvika
-Prem Pratik 
+- Prashant Narang
+- Arihant Bhandari
+- Vigneshwar
+- Poorna Sai Reddy
+- Atharvakant Chandorikar
+- Bhaskar
+- Venepally Sathvika
+- Prem Pratik 
 
 ---
 
